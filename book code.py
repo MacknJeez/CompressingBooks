@@ -1,6 +1,6 @@
 #read text file
-# convery string to ascii
-# convery decimal(ascii) to binary
+# convert string to ascii
+# convert decimal(ascii) to binary
 
 from pathlib import Path
 
