@@ -1,0 +1,1 @@
+What if we could convert a book to a certain decimal or fraction and then scribe a line onto a piece of metal that's exactly the right dimensions, with the line scribed dividing the metal into a specific ratio that translates into the decimals the book was converted to?
